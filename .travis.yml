@@ -3,4 +3,4 @@ solution: 1712884.sln
 install:
   - nuget restore 1712884.sln
 script:
-  - msbuild /p:Configuration=Release solution-name.sln
+  - msbuild /p:Configuration=Release 1712884.sln
