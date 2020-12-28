@@ -1,0 +1,6 @@
+language: csharp
+solution: 1712884.sln
+install:
+  - nuget restore 1712884.sln
+script:
+  - msbuild /p:Configuration=Release solution-name.sln

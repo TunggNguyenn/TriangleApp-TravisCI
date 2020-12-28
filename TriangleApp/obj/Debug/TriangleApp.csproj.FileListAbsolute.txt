@@ -1,0 +1,11 @@
+D:\Software Testing\BTCN#06\Source\1712884\TriangleApp\bin\Debug\TriangleApp.exe.config
+D:\Software Testing\BTCN#06\Source\1712884\TriangleApp\bin\Debug\TriangleApp.exe
+D:\Software Testing\BTCN#06\Source\1712884\TriangleApp\bin\Debug\TriangleApp.pdb
+D:\Software Testing\BTCN#06\Source\1712884\TriangleApp\obj\Debug\TriangleApp.csprojAssemblyReference.cache
+D:\Software Testing\BTCN#06\Source\1712884\TriangleApp\obj\Debug\TriangleApp.csproj.CoreCompileInputs.cache
+D:\Software Testing\BTCN#06\Source\1712884\TriangleApp\obj\Debug\TriangleApp.exe
+D:\Software Testing\BTCN#06\Source\1712884\TriangleApp\obj\Debug\TriangleApp.pdb
+D:\Software Testing\BTCN#06\Source\1712884\TriangleApp\bin\Debug\nunit.framework.dll
+D:\Software Testing\BTCN#06\Source\1712884\TriangleApp\bin\Debug\nunit.framework.pdb
+D:\Software Testing\BTCN#06\Source\1712884\TriangleApp\bin\Debug\nunit.framework.xml
+D:\Software Testing\BTCN#06\Source\1712884\TriangleApp\obj\Debug\TriangleApp.csproj.CopyComplete
