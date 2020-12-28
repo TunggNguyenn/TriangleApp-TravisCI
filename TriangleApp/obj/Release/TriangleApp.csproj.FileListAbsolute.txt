@@ -19,3 +19,6 @@ D:\Software Testing\BTCN#06\New folder\1712884\TriangleApp\obj\Release\TriangleA
 D:\Software Testing\BTCN#06\New folder\1712884\TriangleApp\obj\Release\TriangleApp.csproj.CopyComplete
 D:\Software Testing\BTCN#06\New folder\1712884\TriangleApp\obj\Release\TriangleApp.dll
 D:\Software Testing\BTCN#06\New folder\1712884\TriangleApp\obj\Release\TriangleApp.pdb
+D:\Software Testing\BTCN#06\New folder\1712884\TriangleApp\obj\Release\TriangleApp.csprojAssemblyReference.cache
+D:\Software Testing\BTCN#06\New folder\1712884\TriangleApp\bin\Release\NuGet.Frameworks.dll
+D:\Software Testing\BTCN#06\New folder\1712884\TriangleApp\bin\Release\NuGet.Frameworks.xml
