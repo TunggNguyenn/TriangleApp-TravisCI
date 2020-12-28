@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace TriangleApp
 {
@@ -29,7 +27,7 @@ namespace TriangleApp
 
         public bool Check(Point X2)
         {
-            if(this.X == X2.X && this.Y == X2.Y)
+            if (this.X == X2.X && this.Y == X2.Y)
             {
                 return false;
             }

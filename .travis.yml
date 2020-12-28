@@ -2,5 +2,7 @@ language: csharp
 solution: 1712884.sln
 install:
   - nuget restore 1712884.sln
+  - nuget install NUnit.Console -Version 3.9.0 -OutputDirectory testrunner
 script:
   - msbuild /p:Configuration=Release 1712884.sln
+  - mono ./testrunner/NUnit.ConsoleRunner.3.9.0/tools/nunit3-console.exe ./TriangleApp/bin/Release/TriangleApp.dll
